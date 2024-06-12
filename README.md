@@ -3,7 +3,7 @@
 
 ![Visite al Profilo](https://komarev.com/ghpvc/?username=il-tuo-username&color=brightgreen)
 
-Sono un'appassionato di tutto cio che riguarda la programmazione
+***Sono un'appassionato di tutto cio che riguarda la programmazione***
 
 ## 📫 Contattami
 - **Email**: [kinaan0.0proton@me]
@@ -18,8 +18,8 @@ Sono un'appassionato di tutto cio che riguarda la programmazione
 - [Articolo 3](https://link-articolo-3.com)
 
 ## 🎉 Fun Fact
-- 😄 Amo il caffè ☕ e i gatti 🐱
-- 🌍 Ho visitato 15 paesi e conto di visitarne molti altri!
+- 😄 COFFEE ☕
+- 🌍 Ho visitato 11 paesi e conto di visitarne molti altri!
 
 ## 📈 Attività Recente
 <!--START_SECTION:activity-->
