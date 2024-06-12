@@ -7,8 +7,7 @@ Sono un'appassionato di tutto cio che riguarda la programmazione
 
 ## 📫 Contattami
 - **Email**: [kinaan0.0proton@me]
-- **Telegram**: []
-- **Twitter**: [Il Tuo Profilo Twitter](https://twitter.com/il-tuo-username)
+- **Telegram**: [t.me/k1n44n0]
 
 ## 💬 Citazione Preferita
 >>>Il fallimento è la chiave del successo<<<
